@@ -1,7 +1,7 @@
 # Web3 Security Architecture & Vulnerability Research Portfolio
 
 ## Technical Profile
-An elite-tier, highly analytical smart contract security researcher with an extensively validated baseline in multi-layered decentralized architectures. Combines competitive on-chain validation with a rigorous mathematical pedigree (Diocesan Mathematics Champion / Abuja Provincial Finalist) and rapid problem-solving capabilities (Wonderlic cognitive range of 39â€“44, translating to a top 0.1% processing speed). Highly versatile across distinct virtual machines, execution layers, and low-level development patterns, executing high-signal adversarial manual code reviews that routinely bypass traditional static analysis and formal automated verifiers.
+An elite-tier, highly analytical smart contract security researcher with an extensively validated baseline in multi-layered decentralized architectures. Combines competitive on-chain validation with a rigorous mathematical pedigree (Diocesan Mathematics Champion) and rapid problem-solving capabilities. Highly versatile across distinct virtual machines, execution layers, and low-level development patterns, executing high-signal adversarial manual code reviews that routinely bypass traditional static analysis and formal automated verifiers.
 
 ---
 
