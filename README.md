@@ -19,7 +19,7 @@ An elite-tier, highly analytical smart contract security researcher with an exte
 ### 1. Code4rena Audit Competition: K2 Lending Infrastructure Protocol (May 2026)
 * **Ecosystem Platform:** Stellar WebAssembly (Soroban SDK / Rust)
 * **Assigned Severity:** **Medium Severity Vulnerability**
-* **Vulnerability Target Vector:** `kinetic_router/src/operations.rs` â€” Missing State-Enforcement on Vault Withdrawal Flow
+* **Vulnerability Target Vector:** `kinetic_router/src/operations.rs`  Missing State-Enforcement on Vault Withdrawal Flow
 * **Exploit Mechanism Classification:** Share Inflation & Economic Attack Vector
 
 #### Vulnerability Context & Technical Breakdown
